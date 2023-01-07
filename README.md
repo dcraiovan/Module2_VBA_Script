@@ -63,7 +63,7 @@ Before refactoring the code, I began by copying the code that was needed to crea
 
 ### Summary
 
-The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately one second to run, whereas our new analysis only took about a four of the time (approximately 0.25 seconds) to run. Attached below are the screenshots that indicate the run time for our new analysis.
+The biggest benefit that occurred as a result of the refactoring was a decrease in run time. The original analysis took approximately one second to run, whereas our new analysis only took about a fourth of the time (approximately 0.25 seconds) to run (see below the screenshots that indicate the run time for each analysis).
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/111898553/211131977-92245e0f-ead8-4f1f-b4de-74dd4058dde4.PNG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/111898553/211131980-4ff21a73-3504-4593-adb1-08f0d4db1810.PNG)
